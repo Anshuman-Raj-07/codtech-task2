@@ -1,4 +1,9 @@
-Name : Anshuman Raj : CODTECH IT SOLUTIONS ID : CT6WDS404 Domain : VLSI Duration :15th JUNE 2024 to 30th JULY 2024 Mentor : SRAVANI GOUNI
+Name : Anshuman Raj
+CODTECH IT SOLUTIONS ID : CT6WDS404
+Domain : VLSI
+Duration : 15th JUNE 2024 to 30th JULY 2024
+Mentor : SRAVANI GOUNI
+
 ![image](https://github.com/Anshuman-Raj-07/codtech-task2/assets/163716110/388dee57-a4e7-446b-8da8-aec044d258d8)
 
 Project Overview: Designing and Testing a Finite State Machine (FSM) in Verilog using ModelSim Objective The primary objective of this project is to design, implement, simulate, and verify a Finite State Machine (FSM) using Verilog and ModelSim. The project aims to provide a practical understanding of FSM design in digital systems and demonstrate the use of hardware description languages (HDL) and simulation tools in the VLSI design process.
